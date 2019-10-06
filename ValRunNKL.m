@@ -8,13 +8,14 @@ function ValRunNKL(f)
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%55
 % Run
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
-% load([FilenameFor parameterEstimates]); 
-           
+         
             
 load('DataNorthKivu.mat'); % Load data
 NW=length(IData); % Determine how long to run the model for
 clear IData; % Clear the data
+
+
+load(['NK_M' num2str(f) '.mat']);  % load the paramter files
 
 % Determine the start time of vaccination
 startDateofSim = datenum('04-30-2018'); % The start of the first epiweek is April 30, 2018
