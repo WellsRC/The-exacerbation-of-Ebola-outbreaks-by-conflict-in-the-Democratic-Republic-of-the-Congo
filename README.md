@@ -15,7 +15,7 @@ BMFocus - Runs a more focused search around the more likely parameter sets to im
 
 FitEpiSimNK - Computes the negative log-likelihood of the model fit in case fmincon or other minimization algorithms want to be applied
 
-CollectPar - Collects the paramters together from the separate files generated during the fitting proccess
+CollectPar - Collects the sampled parameter sets together from the separate files generated during the fitting proccess
 
 # Model
 EpiSimDVG - The system of ODEs. It returns the different latent classes, infectious classes, and cumulative incidence
