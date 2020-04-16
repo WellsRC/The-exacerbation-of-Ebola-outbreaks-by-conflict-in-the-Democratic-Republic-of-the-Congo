@@ -1,7 +1,7 @@
 # The exacerbation of Ebola outbreaks by conflict in the Democratic Republic of the Congo
 Chad R. Wells, Abhishek Pandey, Martial L. Ndeffo Mbah, Bernard-A. Gaüzère, Denis Malvy, Burton H. Singer, Alison P. Galvani
 
-Copyright 2019, Chad Wells et al. All rights reserved. Released under the GNU AGPL 3.
+Copyright 2019, Chad Wells et al. All rights reserved. Released under the GNU GENERAL PUBLIC LICENSE v3.
 
 The MATLAB code provided here will run the fitting and analysis for the modelling portion of the manuscript.
 
